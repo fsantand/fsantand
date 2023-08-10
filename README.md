@@ -41,10 +41,14 @@
   
 ## GitHub Stats  
 
-<table>
+<table style="border-collapse: collapse; border: none;" align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsantand&theme=radical&card_width=450em)](https://github.com/njorquera98/njorquera98/github-readme-stats"/></td>
-    <td align="center" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsantand&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td style="border: none; padding: 0;" align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=fsantand&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> 
+    </td>
+    <td style="border: none; padding: 0;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsantand&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 350px;"/>
+    </td>
   </tr>
 </table>
 
